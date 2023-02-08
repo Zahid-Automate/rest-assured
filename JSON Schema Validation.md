@@ -101,6 +101,9 @@ Consider the following example of Post Response from restful-booker website wher
 ```
 To generate the JSON Schema, we would be using an online JSON schema generator tool from extendsclass.com. Using this tool is very simple, you just need to copy paste the JSON data for which you need to generate the JSON schema and click on the Generate Schema from JSON button on the web page and it will provide you with the JSON schema for the respective JSON data provided.
  
+ ![image](https://user-images.githubusercontent.com/45691238/217439547-2796572d-b0ae-4e58-a521-7c1026c42b01.png)
+
+
 Here is the JSON Schema generated for the above JSON data for creating a new booking:
 ```json
 {

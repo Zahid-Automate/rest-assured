@@ -1,6 +1,6 @@
 ### Features
 
-While testing is possible that one of the data type of the field received in response is changed to integer from String or vice-versa. Or there is a new field/Object added in the response.
+### While testing is possible that one of the data type of the field received in response is changed to integer from String or vice-versa. Or there is a new field/Object added in the response.
 Thanks to JSON Schema Validation, these changes can now be caught easily and can save lot of your efforts and time in debugging and finding the issue which leads to the failure of your system.
 Before we begin with discussing the JSON Schema validation, let’s first understand what JSON is, and then continue with the JSON Schema Validation.
 
